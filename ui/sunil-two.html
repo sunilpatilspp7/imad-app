@@ -1,40 +1,74 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <title>My IMAD profile</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="static/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+</style>
 </head>
-
 <body>
-  <div class="container text-center full-height">
-    <div class="row content">
-      <div class="col-sm-4 sidenav">
-        <div class="thumbnail">
-          <!-- Change the link in the src attribute below to an image available on the Internet -->
-          <img src="https://pbs.twimg.com/profile_images/865412724477612032/EbaE1Ct3_400x400.jpg" />
-        </div>
-        <h2 align="center"><b>SUNIL PATIL</b></h2>
-        <p align="center">STUDENT,<br>BMSCE,<br>BENGALURU.</p>
-      </div>
 
-      <div class="col-sm-8 text-left">
-        <h3>About me</h3>
-        <p>Indian, Gamer, Learner, Debugger, Student, Network Analyser, Tech Enthusiast, Car Lover, Human, Android Lover, Nature Freak and an awesome friend</p>
-        <hr>
-        <h3>Education</h3>
-        <p>2nd Year Computer Science and Engineering at BMSCE Bengaluru</p>
-        <hr>
-        <h3>Experience</h3>
-        <p>I am still learning.</p>
-        
-      </div>
-    </div>
+<h2 style="text-align:center">User Profile Card</h2>
+
+<div class="card">
+  <img src="https://pbs.twimg.com/profile_images/865412724477612032/EbaE1Ct3_400x400.jpg" alt="John" style="width:100%">
+  <div class="container">
+    <h1>Sunil Patil</h1>
+    <p class="title">Student,Tech Enthusiast,Android Lover, Nature Freak and an awesome friend </p>
+    <p>BMS COLLEGE OF ENGINEERING</p>
+    <div style="margin: 24px 0;">
+     
+      <a href="https://twitter.com/sunilspp7"><i class="fa fa-twitter"></i></a>   
+      <a href="https://www.facebook.com/sunilpatilspp7"><i class="fa fa-facebook"></i></a> 
+      <a href="https://www.quora.com/profile/Sunil-P-Patil/"><i class="fa fa-quora" aria-hidden="true"></i></a>
+   </div>
+   <p><button>Contact</button></p>
   </div>
+</div>
 
-  <footer class="container-fluid text-center footer">
-    THINK AND GROW RICH.
-  </footer>
 </body>
 </html>
