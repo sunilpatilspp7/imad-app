@@ -27,14 +27,14 @@ var articleTwo={
 
 <b>Think about what that means.</b>
 
-<p>That means that the subjectsâ€™ deliberating in their mind about which hand to decide to press the button with was pointless.
+<p>That means that the subjects deliberating in their mind about which hand to decide to press the button with was pointless.
 
 This means that at least with regard to basic, simple decisions, the subconscious activity of the mind makes its choices before the choice becomes a part of our conscious reality.
 </P>
 <p>
 If you think about this logically with regards to our emotional reactions to situations, it makes a ton of sense.
 
-Imagine you€™re confronted with a stressful situation or one that makes you angry. Your subconscious decides that you are going to be angry and then the thoughts you have literally tell you what to feel and why it is justified. The only thing weird about it is the fact that we genuinely believe it is the other way around
+Imagine you are confronted with a stressful situation or one that makes you angry. Your subconscious decides that you are going to be angry and then the thoughts you have literally tell you what to feel and why it is justified. The only thing weird about it is the fact that we genuinely believe it is the other way around
 </P>
 <p>
 Most people hear this fact and they think "oh, interesting." It never crosses their mind again - or they might tell it to someone else in passing conversation.
