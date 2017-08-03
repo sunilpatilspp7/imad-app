@@ -9,7 +9,7 @@ app.use(morgan('combined'));
 var articleOne={
     title:'Article One|Sunil',
     heading:'Article One',
-    Content:    ` <p>
+    content:    ` <p>
                Early birds earn better grades in school: In 2008, a study was conducted at Texas University in which people identified themselves as "morning people" or "night owls." It was found that those who identified as early risers, on average, earn a full point more in their GPA than night owls (3.5 GPA vs. 2.5 GPA).
                         Get better sleep: If you can consistently wake up early, you're more likely to be able to go to bed at a reasonable hour. The better sleep is also a product of exerting more energy throughout the day due to a longer day. 
              </p>`
