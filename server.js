@@ -21,23 +21,28 @@ var articleTwo={
     heading:'Article two',
     content:    ` <p>
                Nature Neuroscience recently published a study with the incredible revelation that brain scanners could predict whether a person would hit a button with their left or right hand a whopping seven seconds before the person was even aware of the decision.
+                </p>
+                
+<b>S E V E N. S E C O N D S.</b>
 
-S E V E N. S E C O N D S.
+<b>Think about what that means.</b>
 
-Think about what that means.
-
-That means that the subjectsâ€™ deliberating in their mind about which hand to decide to press the button with was pointless.
+<p>That means that the subjectsâ€™ deliberating in their mind about which hand to decide to press the button with was pointless.
 
 This means that at least with regard to basic, simple decisions, the subconscious activity of the mind makes its choices before the choice becomes a part of our conscious reality.
-
+</P>
+<p>
 If you think about this logically with regards to our emotional reactions to situations, it makes a ton of sense.
 
-Imagine youâ€™re confronted with a stressful situation or one that makes you angry. Your subconscious decides that you are going to be angry and then the thoughts you have literally tell you what to feel and why it is justified. The only thing weird about it is the fact that we genuinely believe it is the other way around!
-
+Imagine you€™re confronted with a stressful situation or one that makes you angry. Your subconscious decides that you are going to be angry and then the thoughts you have literally tell you what to feel and why it is justified. The only thing weird about it is the fact that we genuinely believe it is the other way around
+</P>
+<p>
 Most people hear this fact and they think "oh, interesting." It never crosses their mind again - or they might tell it to someone else in passing conversation.
-
+</p>
+<h>
 STOP.
-
+</h>
+<p>
 Think for a moment how valuable this information is. 
 
 See if you can catch yourself deliberating or justifying some unpleasant emotion. Even when we deliberate, we usually FEEL that there is only one proper course of action to take. If you catch yourself doing it, see if you can catch it again, and again. 
