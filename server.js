@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 
-var artcileOne={
+var articleOne={
     title:'Article One|Sunil',
     heading:'Article One',
     Content:    ` <p>
@@ -21,13 +21,6 @@ function creatTemplate(data){
 var title=data.title;
 var heading=data.heading;
 var content=data.content;
-
-
-
-
-
-
-
 var htmlTemplate= `
     <!DOCTYPE html>
 <html>
