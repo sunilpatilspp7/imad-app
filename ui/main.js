@@ -6,7 +6,7 @@ element.innerHTML="Hi I am Sunil Patil,This is My first webapp, which is desgine
 // move the image
 
 var img=document.getElementById('sunil');
-var margineLeft=0;
+var marginLeft=0;
 function moveRight () {
     marginLeft=marginLeft + 10;
     img.style.marginLeft = marginLeft + 'px';
