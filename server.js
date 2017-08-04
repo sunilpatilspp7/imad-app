@@ -128,9 +128,9 @@ app.get('/ui/style.css', function (req, res) {
 });
  
  var counte=0;
-app.get('/counte',function(req, res){
-    counte=counte+1;
-   res.send(counte.toString()); 
+app.get('/counter',function(req, res){
+    counter=counte+1;
+   res.send(counter.toString()); 
 });
 app.get('/article-one', function (req, res) {
   res.send(createTemplate(articleOne));
