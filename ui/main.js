@@ -9,7 +9,7 @@ var element=document.getElementById('sunil');
 var margineLeft=0;
 function moveRight (){
     marginLeft=marginLeft+10;
-    sunil.style.marginLeft= marginLeft+'px';
+    img.style.marginLeft= marginLeft+'px';
     
 }
 sunil.onclick=function(){
