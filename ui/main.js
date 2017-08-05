@@ -17,5 +17,6 @@ button.onclick=function(){
         }
     };
 
-    
+    request.open('GEt','http://sunilpatilspp7.imad.hasura-app.io/',true);
+    request.send(null);
 };
